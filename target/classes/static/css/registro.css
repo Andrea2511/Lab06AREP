@@ -1,0 +1,65 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #FFE4E1; /* Rosa pastel */
+    text-align: center;
+    padding: 50px;
+}
+
+h2 {
+    color: #FFB6C1; /* Rosa suave */
+    font-size: 32px;
+}
+
+form {
+    background-color: #FFF0F5; /* Rosa claro */
+    padding: 20px;
+    display: inline-block;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-size: 18px;
+    color: #6A5ACD; /* Lila pastel */
+}
+
+input {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #D8BFD8; /* Lila claro */
+    width: 90%;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #ADD8E6; /* Azul pastel */
+    color: white;
+    font-size: 18px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #87CEFA; /* Azul más vibrante */
+    transform: scale(1.1);
+}
+
+p {
+    font-size: 16px;
+    color: #6A5ACD; /* Lila */
+}
+
+a {
+    color: #FF69B4; /* Rosa más fuerte */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
