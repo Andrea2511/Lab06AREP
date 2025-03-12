@@ -1,7 +1,0 @@
-co\eci\edu\arep\secureApp\SecureAppApplication.class
-co\eci\edu\arep\secureApp\model\User.class
-co\eci\edu\arep\secureApp\repository\UserRepository.class
-co\eci\edu\arep\secureApp\controller\SecureAppController.class
-co\eci\edu\arep\secureApp\SecurityConfig.class
-co\eci\edu\arep\secureApp\URLReader.class
-co\eci\edu\arep\secureApp\service\SecureAppService.class
