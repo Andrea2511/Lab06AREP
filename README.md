@@ -169,7 +169,7 @@ Probar la configuración y reiniciar NGINX
    sudo systemctl restart nginx
 ```
 
-Finalmente, se puede ver en el video, el resultado final (se llama ).
+Finalmente, se puede ver en el video, el resultado final (se llama despliegueAWS.mp4).
 
 ## Implementación de Seguridad
 
